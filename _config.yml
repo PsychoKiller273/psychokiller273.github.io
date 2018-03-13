@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: TheDreamBoat
-email: https://thedreamboat.myshopify.com/
+email: rajarshi.a.dasgupta@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome on my journey of e-commerce with Shopify. I will show you all the steps, tips and tricks that I have discovered in my own journey. You will learn the latest and the best ways to increase you sales. JOIN me as I build my Shopify store. I will be displaying all the kowledge that i have aquired here, all for FREE.
 baseurl: "" # the subpath of your site, e.g. /blog
