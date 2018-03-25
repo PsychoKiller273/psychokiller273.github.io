@@ -1,0 +1,46 @@
+---
+layout: post
+comments: true
+title:  "BEEP"
+date:   2018-03-20 10:22:10 +0530
+categories: jekyll update
+---
+
+It starts with a low hiss that startles you awake in the early morning light when pigeons scratch their claws against the windowsill and the newspaper thuds against the driveway. The hiss has no discernible source. You know this because you check it out, pacing from bedroom to living room to kitchen searching for its origin, peering in corners and leaning into appliances, stepping into the backyard, looking up, down and sideways for the source until you realize the hissing is coming from inside your head.
+
+Tinnitus, the ear, nose and throat doctor says. Ever been hit on the head and lost consciousness? No. Spend a lot of time at rock concerts? No. Ever been exposed to loud noises for a long period of time? Yes. Two hours a day, six days a week at the gym for the past three years. You lost 35 pounds. Everyone says you look great. That must be it. There are microscopic hair fibers in the ear and loud music makes them die and causes the nerves to produce sounds that aren’t there. It’s permanent. After awhile, you’ll get used to it.
+
+But you don’t. Instead, you become hyper-aware of the hissing, which is soon joined by a beeping in the other ear and a loud, high-pitched ringing. You stop going to the gym, carry earplugs at all times, buy a masking machine that mimics waterfalls and wind and eight other “soothing” noises to mute the sounds that won’t go away. It’s hard to sleep, impossible to concentrate at work. You join a Tinnitus Support Group but only go to one meeting, which is held in a Panera Bread that’s so loud the noises in your head are screaming. You realize everything beeps: The scanner at Stop & Shop. ATM machines. The microwave. Texts. The world is too loud. You use an app that measures the decibel level of every place you go. Eighty-five is safe. Most times it registers over 500. You stop mothers on the street and yank the earbuds from their kids’ ears and the mothers do not thank you. You wear protective headphones at all times like the ones used by air traffic controllers. Everyone looks at you funny.
+
+You stop hearing actual sounds. When people talk they move their lips but no words come out. You lose your job. You won’t leave the house and use Peapod to deliver groceries until your credit card gets canceled. You sell your TV, Nano and stereo on eBay. You disconnect the phone because you can’t hear it ring anymore.
+
+One night at about 3 a.m., you get out of bed. You haven’t slept in weeks. You go into the garage and sit in your car. There are so many noises in your head you can’t keep them straight. Ringing. Buzzing. Roaring. Clicking. Hissing. You start the engine and think to yourself, it’s quiet when you’re dead.
+
+You wake up in the hospital. A nurse is holding a cup of pills and touching your arm. She writes you a note: Can you hear me? Of course not. She is not even real. There are only the noises, your soul mates, your friends. The noises are still there. Nothing else matters. The nurse points and gestures with her hands. She is trying to tell you something but you are no longer listening. When you lunge at her, her eyes widen with alarm and she moves away from you, further and further away, until she is nothing but a small white blur.
+
+#### For more: https://psychokiller273.github.io/
+
+
+{% if page.comments %}
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://psychokiller273-github-io.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+{% endif %}
