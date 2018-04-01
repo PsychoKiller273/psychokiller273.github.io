@@ -14,14 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Terror Tales
-email: rajarshidasgupte633@gmail.com
+email: rajarshidasgupta633@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
     Welcome to all the horror and thrill enthusiasts who ar looking for some thrill. this is ther perfect place for you. I write short 5-10 mins, horrifying and thriling stories that will give you the adrenaline rush you need. Just click on one of the links and start reading. Come on get going!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Neptronious
 github_username:  PsychoKiller273
-facebook_username: TheDreamBoat
 google_analytics: UA-115627854-1
 
 
